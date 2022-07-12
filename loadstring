@@ -1,1 +1,1 @@
--- Soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BirthScripts/DevilHub/main/main/v2.lua"))()
