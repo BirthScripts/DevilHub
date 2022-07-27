@@ -1,1 +1,4 @@
--- OUTDATED
+if game.PlaceId == 2788229376 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BirthScripts/DevilHub/main/universal/devildahood.lua"))()
+
+-- BEDWARS AINT OUT YET
